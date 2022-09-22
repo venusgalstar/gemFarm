@@ -23,7 +23,7 @@ export default defineComponent({
 
     const menu = [
       { name: '/', url: '/' },
-      { name: 'FARM MANAGER', url: '/manager' },
+      //{ name: 'FARM MANAGER', url: '/manager' },
       { name: 'FARMER', url: '/farmer' },
     ];
 

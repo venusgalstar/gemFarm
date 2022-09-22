@@ -9,11 +9,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'Home',
     component: Home,
   },
-  {
-    path: '/manager',
-    name: 'Farm Manager',
-    component: Manager,
-  },
+  // {
+  //   path: '/manager',
+  //   name: 'Farm Manager',
+  //   component: Manager,
+  // },
   {
     path: '/farmer',
     name: 'Farmer',
